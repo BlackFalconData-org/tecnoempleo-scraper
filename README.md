@@ -9,6 +9,7 @@ Extract structured data from [tecnoempleo.com](https://tecnoempleo.com) — tecn
 ## Key features
 
 
+
 **Search with filters** — Search by keyword and location. Filter by work arrangement, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, direct apply URLs for each listing.
@@ -30,6 +31,7 @@ Extract structured data from [tecnoempleo.com](https://tecnoempleo.com) — tecn
 ---
 
 ## Use cases
+
 
 
 **Data pipeline automation**
@@ -205,6 +207,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
